@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Proxmox APT Update Fix Banner">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-VE%209-orange">
+  <img src="https://img.shields.io/badge/Debian-Trixie-red">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
+
 # Proxmox APT Update Fix (401 Unauthorized / Exit Code 100)
 
 Fixes:
